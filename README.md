@@ -1,1 +1,2 @@
-# Churn-Analysis-and-Churn-Prediction
+# Churn-Analysis-and-Churn-Prediction:
+SQL + Power BI + Python 
