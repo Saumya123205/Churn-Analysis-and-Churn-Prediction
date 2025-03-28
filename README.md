@@ -1,2 +1,2 @@
-# Churn-Analysis-and-Churn-Prediction:
+# Data-Driven Customer Churn Analysis and Prediction:
 Python + Machine Learniing + SQL + Power BI +  Excel
